@@ -1,7 +1,10 @@
 NadaStyle
 =============
 
-Color Schemes for Intellij
+A color schemefor Intellij
+
+![My image](adanperez.github.com/NadaStyle/images/example.png)
+
 
 Supports
 -------
