@@ -3,7 +3,7 @@ NadaStyle
 
 A color schemefor Intellij
 
-![My image](NadaStyle/images/example.png)
+![My image](https://raw.github.com/adanperez/NadaStyle/master/images/example.png)
 
 
 Supports
