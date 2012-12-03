@@ -25,6 +25,7 @@ The following languages and features are supported at this time.
 * Regex
 * Properties
 * Manifest
+* Ruby
 
 Installation
 -----------
