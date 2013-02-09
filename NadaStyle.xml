@@ -4,7 +4,7 @@
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="ffffff" />
+    <option name="ADDED_LINES_COLOR" value="283528" />
     <option name="ANNOTATIONS_COLOR" value="999999" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="6699ff" />
     <option name="CARET_COLOR" value="ff00" />
@@ -24,7 +24,7 @@
     <option name="LEFT_GUTTER_BACKGROUND" value="0" />
     <option name="LINE_NUMBERS_COLOR" value="4a4a4a" />
     <option name="METHOD_SEPARATORS_COLOR" value="b0d0f" />
-    <option name="MODIFIED_LINES_COLOR" value="ffffff" />
+    <option name="MODIFIED_LINES_COLOR" value="314c" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="808080" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ff33ff" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
@@ -590,7 +590,7 @@
     <option name="DIFF_INSERTED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="3e4d3e" />
+        <option name="BACKGROUND" value="283528" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -600,7 +600,7 @@
     <option name="DIFF_MODIFIED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="6699" />
+        <option name="BACKGROUND" value="314c" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -1219,7 +1219,7 @@
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="638eb0" />
+        <option name="FOREGROUND" value="7d79ae" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1479,11 +1479,11 @@
     </option>
     <option name="Label">
       <value>
-        <option name="FOREGROUND" value="786db8" />
+        <option name="FOREGROUND" value="b583ff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="c52bff" />
+        <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
