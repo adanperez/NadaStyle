@@ -29,5 +29,5 @@ The following languages and features are supported at this time.
 
 Installation
 -----------
-    Place file in:
-    ~/Library/Preferences/IntelliJIdea12/colors
+    Intellij 12.1:
+    Place the NadaStyle.icls file in "~/Library/Preferences/IntelliJIdea12/colors"

@@ -140,7 +140,7 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a96ab8" />
+        <option name="FOREGROUND" value="7d79ae" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -575,7 +575,7 @@
     </option>
     <option name="Instance property reference ID">
       <value>
-        <option name="FOREGROUND" value="638eb0" />
+        <option name="FOREGROUND" value="798a9c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -633,7 +633,7 @@
     </option>
     <option name="JAVA_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b87100" />
+        <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
     <option name="JAVA_STRING">
@@ -677,13 +677,13 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="db9731" />
+        <option name="FOREGROUND" value="df8b25" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="e66f62" />
+        <option name="FOREGROUND" value="798a9c" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -719,7 +719,7 @@
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="b87100" />
+        <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
     <option name="JS.PARAMETER">
@@ -873,7 +873,7 @@
     </option>
     <option name="Operation sign">
       <value>
-        <option name="FOREGROUND" value="b87100" />
+        <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
