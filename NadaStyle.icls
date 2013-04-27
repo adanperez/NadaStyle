@@ -132,6 +132,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CSS.COLOR">
+      <value>
+        <option name="FOREGROUND" value="4f9075" />
+      </value>
+    </option>
     <option name="CSS.COMMENT">
       <value>
         <option name="FOREGROUND" value="383846" />
@@ -155,7 +160,7 @@
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="db9731" />
+        <option name="FOREGROUND" value="f1a62d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -169,7 +174,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="4eb45f" />
+        <option name="FOREGROUND" value="4f9075" />
       </value>
     </option>
     <option name="CSS.STRING">
@@ -569,7 +574,7 @@
     </option>
     <option name="Instance field">
       <value>
-        <option name="FOREGROUND" value="db9731" />
+        <option name="FOREGROUND" value="f1a62d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -589,6 +594,11 @@
       <value>
         <option name="FOREGROUND" value="383846" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA_COMMA">
+      <value>
+        <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
     <option name="JAVA_DOC_COMMENT">
@@ -636,6 +646,11 @@
         <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
+    <option name="JAVA_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="b7482b" />
+      </value>
+    </option>
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="40c740" />
@@ -655,6 +670,11 @@
       <value>
         <option name="FOREGROUND" value="383846" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
     <option name="JS.DOC_COMMENT">
@@ -677,7 +697,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="df8b25" />
+        <option name="FOREGROUND" value="f1a62d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -732,6 +752,11 @@
       <value>
         <option name="FOREGROUND" value="e07be0" />
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="b7482b" />
       </value>
     </option>
     <option name="JS.STATIC_MEMBER_FUNCTION">
@@ -792,6 +817,16 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="LESS_INJECTED_CODE">
+      <value>
+        <option name="FOREGROUND" value="be80ff" />
+      </value>
+    </option>
+    <option name="LESS_JS_CODE_DELIM">
+      <value>
+        <option name="FOREGROUND" value="ff00fc" />
+      </value>
+    </option>
     <option name="LESS_KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff68df" />
@@ -799,7 +834,7 @@
     </option>
     <option name="LESS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="db9731" />
+        <option name="FOREGROUND" value="f1a62d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
