@@ -547,8 +547,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="578dd6" />
-        <option name="BACKGROUND" value="39384d" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_COLOR" value="2eff00" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1494,8 +1494,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="578dd6" />
-        <option name="BACKGROUND" value="39384d" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_COLOR" value="2eff00" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
