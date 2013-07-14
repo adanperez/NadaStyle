@@ -289,10 +289,14 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.SQL.BlockComment">
+      <value>
+        <option name="FOREGROUND" value="383846" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.SQL.DataType">
       <value>
-        <option name="FOREGROUND" value="9f7ee2" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="7d79ae" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.SQL.Function">
@@ -302,21 +306,36 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.SQL.Identifier">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.SQL.Keyword">
       <value>
-        <option name="FOREGROUND" value="ffb709" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="f1a62d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.LineComment">
+      <value>
+        <option name="FOREGROUND" value="383846" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.SQL.Number">
       <value>
-        <option name="FOREGROUND" value="27e827" />
+        <option name="FOREGROUND" value="40c73d" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.QuotedIdentifier">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.SQL.String">
       <value>
-        <option name="FOREGROUND" value="27e827" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="40c73d" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.SQL.Variable">
@@ -549,7 +568,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_COLOR" value="2eff00" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1437,10 +1456,9 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4bee48" />
-        <option name="BACKGROUND" value="515151" />
+        <option name="FOREGROUND" value="2eff00" />
+        <option name="BACKGROUND" value="263c40" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPO">
@@ -1496,7 +1514,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_COLOR" value="2eff00" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
@@ -1555,6 +1573,26 @@
     </option>
     <option name="XML_TAG_NAME">
       <value />
+    </option>
+    <option name="YAML_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="383846" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_DSTRING">
+      <value>
+        <option name="FOREGROUND" value="40c73d" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_STRING">
+      <value>
+        <option name="FOREGROUND" value="40c73d" />
+      </value>
     </option>
     <option name="go.default">
       <value />
