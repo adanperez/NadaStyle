@@ -27,14 +27,14 @@
     <option name="MODIFIED_LINES_COLOR" value="314c" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="808080" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ff33ff" />
-    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="151719" />
     <option name="SELECTED_FOLDING_TREE_COLOR" value="ff00" />
     <option name="SELECTED_INDENT_GUIDE" value="474755" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="6699ff" />
     <option name="SELECTION_FOREGROUND" value="80" />
     <option name="TEARLINE_COLOR" value="" />
-    <option name="WHITESPACES" value="f0f13" />
+    <option name="WHITESPACES" value="151719" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -351,6 +351,158 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.DeletedData">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+        <option name="BACKGROUND" value="393939" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ErrorData">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ForeignKey">
+      <value>
+        <option name="FOREGROUND" value="a1a8a1" />
+        <option name="BACKGROUND" value="2a3b2a" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.LoadingData">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+        <option name="BACKGROUND" value="393939" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ModifiedData">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PlainData">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.PrimaryKey">
+      <value>
+        <option name="FOREGROUND" value="95a8b4" />
+        <option name="BACKGROUND" value="2b3447" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.ReadonlyData">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+        <option name="BACKGROUND" value="393939" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.DataEditor.Selection">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="526da5" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Alias">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.BlockComment">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Brackets">
+      <value />
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.DataType">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Exception">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Function">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Identifier">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Keyword">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.LineComment">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Number">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Operator">
+      <value />
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.Parenthesis">
+      <value />
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.QuotedIdentifier">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.PSQL.String">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Alias">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.BlockComment">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Brackets">
+      <value />
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Chameleon">
+      <value>
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.SQL.DataType">
       <value>
         <option name="FOREGROUND" value="9f7ee2" />
@@ -364,15 +516,45 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.SQL.Identifier">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.SQL.Keyword">
       <value>
         <option name="FOREGROUND" value="ffb709" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DBNavigator.TextAttributes.SQL.LineComment">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="DBNavigator.TextAttributes.SQL.Number">
       <value>
         <option name="FOREGROUND" value="27e827" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Operator">
+      <value />
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Parameter">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.Parenthesis">
+      <value />
+    </option>
+    <option name="DBNavigator.TextAttributes.SQL.QuotedIdentifier">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.SQL.String">
@@ -672,11 +854,13 @@
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ca3731" />
+      </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="ff9933" />
+        <option name="FOREGROUND" value="fb6c46" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -698,11 +882,13 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="d47c41" />
+        <option name="FOREGROUND" value="ca3731" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ff4b46" />
+      </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
@@ -962,7 +1148,7 @@
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="667fc2" />
+        <option name="FOREGROUND" value="4c5e98" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_VALUE">
@@ -979,7 +1165,6 @@
     <option name="JSP_DIRECTIVE_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="667fc2" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -989,7 +1174,7 @@
     </option>
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="9eb6ff" />
+        <option name="FOREGROUND" value="b454ff" />
       </value>
     </option>
     <option name="Keyword">
@@ -1074,6 +1259,72 @@
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="ff6127" />
+      </value>
+    </option>
+    <option name="MARKDOWN.BOLD">
+      <value>
+        <option name="FOREGROUND" value="40c740" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="40c740" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="7d79ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.IMAGE">
+      <value>
+        <option name="FOREGROUND" value="40c740" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.ITALIC">
+      <value>
+        <option name="FOREGROUND" value="40c740" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.TEXT">
+      <value>
+        <option name="FOREGROUND" value="b3b3bd" />
+        <option name="BACKGROUND" value="1d1f21" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
