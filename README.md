@@ -22,10 +22,12 @@ The following languages and features are supported at this time.
 * HandleBars
 * SQL
 * JSP/GSP
+* Dust
 * XML
 * Regex
 * Properties
 * Manifest
+* Markdown
 * Ruby
 * File Status
 
@@ -34,5 +36,5 @@ Installation
     Intellij 13:
     Place the Intellij13/NadaStyle.icls file in "~/Library/Preferences/IntelliJIdea13/colors"
 
-    Intellij 12.1:
-    Place the NadaStyle.icls file in "~/Library/Preferences/IntelliJIdea12/colors"
+    Intellij 12 (no longer supported):
+    Place the Intellij12/NadaStyle.icls file in "~/Library/Preferences/IntelliJIdea12/colors"

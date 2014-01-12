@@ -703,6 +703,39 @@
         <option name="BACKGROUND" value="ff0000" />
       </value>
     </option>
+    <option name="DUST_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="383846" />
+      </value>
+    </option>
+    <option name="DUST_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="667fc2" />
+      </value>
+    </option>
+    <option name="DUST_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="DUST_STRING">
+      <value>
+        <option name="FOREGROUND" value="a3b3ff" />
+      </value>
+    </option>
+    <option name="DUST_TAG">
+      <value>
+        <option name="FOREGROUND" value="4c5e98" />
+      </value>
+    </option>
+    <option name="DUST_TODO">
+      <value>
+        <option name="FOREGROUND" value="ff7900" />
+        <option name="BACKGROUND" value="602720" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
     <option name="EL.BOUNDS">
       <value>
         <option name="FOREGROUND" value="11f011" />
