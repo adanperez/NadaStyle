@@ -1,7 +1,7 @@
 NadaStyle
 =============
 
-A color schemefor Intellij
+A color scheme for Intellij
 
 ![My image](https://raw.github.com/adanperez/NadaStyle/master/images/example.png)
 
@@ -33,8 +33,12 @@ The following languages and features are supported at this time.
 
 Installation
 -----------
-    Intellij 13:
-    Place the Intellij13/NadaStyle.icls file in "~/Library/Preferences/IntelliJIdea13/colors"
+Use the provided `install.sh` script to install the color scheme into IntelliJ.  
+  
+Intellij 13:
 
-    Intellij 12 (no longer supported):
-    Place the Intellij12/NadaStyle.icls file in "~/Library/Preferences/IntelliJIdea12/colors"
+    # ./install.sh 13
+
+Intellij 12 (no longer supported):
+
+    # ./install.sh 12
