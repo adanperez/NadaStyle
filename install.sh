@@ -14,7 +14,7 @@ if [ -d $VERSION ]
     if [ -d $DEST ]
       then
         echo "Installing from $VERSION to $DEST"
-        cp $VERSION/NadaStyle.icls ~/Library/Preferences/IntelliJIdea13/colors/
+        cp $VERSION/*.icls ~/Library/Preferences/IntelliJIdea13/colors/
       else
         echo "ERROR: $DEST does not exist"
         exit 1
