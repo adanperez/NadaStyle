@@ -27,12 +27,12 @@
     <option name="MODIFIED_LINES_COLOR" value="314c" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="808080" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ff33ff" />
-    <option name="RIGHT_MARGIN_COLOR" value="151719" />
+    <option name="RIGHT_MARGIN_COLOR" value="0" />
     <option name="SELECTED_FOLDING_TREE_COLOR" value="ff00" />
     <option name="SELECTED_INDENT_GUIDE" value="474755" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
-    <option name="SELECTION_BACKGROUND" value="2b2d2f" />
-    <option name="SELECTION_FOREGROUND" value="67af40" />
+    <option name="SELECTION_BACKGROUND" value="a3272" />
+    <option name="SELECTION_FOREGROUND" value="4e98f2" />
     <option name="TEARLINE_COLOR" value="" />
     <option name="WHITESPACES" value="0" />
   </colors>
@@ -873,13 +873,19 @@
     </option>
     <option name="EL.BOUNDS">
       <value>
-        <option name="FOREGROUND" value="996fd5" />
+        <option name="FOREGROUND" value="ff6e24" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="EL.COMMA">
+      <value>
+        <option name="FOREGROUND" value="b7482b" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="EL.IDENT">
       <value>
-        <option name="FOREGROUND" value="996fd5" />
+        <option name="FOREGROUND" value="697ed5" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -999,46 +1005,53 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
-    <option name="HANDLEBARS.COMMENTS">
+    <option name="HANDLEBARS.DATA_PREFIX">
       <value>
-        <option name="FOREGROUND" value="444444" />
+        <option name="FOREGROUND" value="c6be00" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="HANDLEBARS.ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="c6be00" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="HANDLEBARS.IDENTIFIERS">
       <value>
-        <option name="FOREGROUND" value="638eb0" />
+        <option name="FOREGROUND" value="c96521" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="HANDLEBARS.MUSTACHES">
       <value>
-        <option name="FOREGROUND" value="d100" />
+        <option name="FOREGROUND" value="ff6e24" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="HANDLEBARS.STRINGS">
       <value>
-        <option name="FOREGROUND" value="40c73d" />
+        <option name="FOREGROUND" value="67af40" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="HANDLEBARS.VALUES">
       <value>
-        <option name="FOREGROUND" value="40c73d" />
+        <option name="FOREGROUND" value="67af40" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="325352" />
+        <option name="FOREGROUND" value="435064" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="4b7473" />
+        <option name="FOREGROUND" value="a3879d" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1063,13 +1076,13 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="2e383f" />
+        <option name="FOREGROUND" value="3a4559" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="325352" />
+        <option name="FOREGROUND" value="637790" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1347,7 +1360,7 @@
     </option>
     <option name="JS.STATIC_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="66ccff" />
+        <option name="FOREGROUND" value="a579e5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -1372,13 +1385,13 @@
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="637790" />
+        <option name="FOREGROUND" value="c96521" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="748da8" />
+        <option name="FOREGROUND" value="ff6e24" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1391,13 +1404,19 @@
     </option>
     <option name="JSP_DIRECTIVE_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="637790" />
+        <option name="FOREGROUND" value="ff6e24" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="JSP_DIRECTIVE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff6e24" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="4f9075" />
+        <option name="FOREGROUND" value="c47250" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -2290,35 +2309,35 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8459b2" />
+        <option name="FOREGROUND" value="a579e5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8459b2" />
+        <option name="FOREGROUND" value="a579e5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8459b2" />
+        <option name="FOREGROUND" value="a579e5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="Static field">
       <value>
-        <option name="FOREGROUND" value="805ab4" />
+        <option name="FOREGROUND" value="a579e5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Static property reference ID">
       <value>
-        <option name="FOREGROUND" value="805ab4" />
+        <option name="FOREGROUND" value="a579e5" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -2371,8 +2390,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6289ff" />
-        <option name="BACKGROUND" value="43175" />
+        <option name="FOREGROUND" value="c70f" />
+        <option name="BACKGROUND" value="c3a35" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
