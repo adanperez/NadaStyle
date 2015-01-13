@@ -34,8 +34,12 @@ The following languages and features are supported at this time.
 Installation
 -----------
 Use the provided `install.sh` script to install the color scheme into IntelliJ.  
-  
-Intellij 13:
+
+Intellij 14:
+
+    # ./install.sh 14
+
+Intellij 13 (no longer supported):
 
     # ./install.sh 13
 
