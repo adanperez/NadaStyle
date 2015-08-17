@@ -1,41 +1,38 @@
-NadaStyle
-=============
-
 A color scheme for Intellij
 
-![My image](https://raw.github.com/adanperez/NadaStyle/master/images/example.png)
+NadaNights
+============
+![My image](https://raw.github.com/adanperez/NadaStyle/master/images/NadaNights.png)
 
+NadaStyle
+=============
+![My image](https://raw.github.com/adanperez/NadaStyle/master/images/example.png)
 
 Supports
 -------
 
 The following languages and features are supported at this time.
 
-
 * Java
 * Groovy
 * Javascript
 * HTML
 * CSS
-* LESS
-* Python
-* HandleBars
-* SQL
+* Sass
 * JSP/GSP
-* Dust
+* Jade
 * XML
-* Regex
-* Properties
-* Manifest
-* Markdown
-* Ruby
 * File Status
 
 Installation
 -----------
 Use the provided `install.sh` script to install the color scheme into IntelliJ.  
 
-Intellij 14:
+Intellij 15:
+
+    # ./install.sh 15
+
+Intellij 14 (no longer supported):
 
     # ./install.sh 14
 
