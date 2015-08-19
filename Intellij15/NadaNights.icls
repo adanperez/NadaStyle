@@ -32,7 +32,7 @@
     <option name="SELECTED_FOLDING_TREE_COLOR" value="ff00" />
     <option name="SELECTED_INDENT_GUIDE" value="474755" />
     <option name="SELECTED_TEARLINE_COLOR" value="3f4e56" />
-    <option name="SELECTION_BACKGROUND" value="f36a66" />
+    <option name="SELECTION_BACKGROUND" value="305769" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="272e36" />
     <option name="TEARLINE_COLOR" value="1b1d20" />
@@ -813,7 +813,7 @@
     <option name="IGNORE.VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b993cc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -852,9 +852,10 @@
         <option name="FOREGROUND" value="47e18a" />
       </value>
     </option>
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JADE_TAG_CLASS">
       <value>
-        <option name="FOREGROUND" value="f36a66" />
+        <option name="FOREGROUND" value="52a0bb" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1007,8 +1008,8 @@
     </option>
     <option name="Label">
       <value>
-        <option name="FOREGROUND" value="b583ff" />
-        <option name="EFFECT_COLOR" value="c52bff" />
+        <option name="FOREGROUND" value="ffc261" />
+        <option name="EFFECT_COLOR" value="ff8520" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1061,7 +1062,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="637790" />
+        <option name="BACKGROUND" value="444452" />
       </value>
     </option>
     <option name="Map key">
@@ -1635,7 +1636,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff008a" />
+        <option name="FOREGROUND" value="ff5555" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
