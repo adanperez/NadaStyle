@@ -25,10 +25,10 @@
     <option name="LEFT_GUTTER_BACKGROUND" value="0" />
     <option name="LINE_NUMBERS_COLOR" value="45495e" />
     <option name="METHOD_SEPARATORS_COLOR" value="b0d0f" />
-    <option name="MODIFIED_LINES_COLOR" value="314c" />
+    <option name="MODIFIED_LINES_COLOR" value="305769" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="808080" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="ff33ff" />
-    <option name="RIGHT_MARGIN_COLOR" value="1b1d20" />
+    <option name="RIGHT_MARGIN_COLOR" value="24242f" />
     <option name="SELECTED_FOLDING_TREE_COLOR" value="ff00" />
     <option name="SELECTED_INDENT_GUIDE" value="474755" />
     <option name="SELECTED_TEARLINE_COLOR" value="3f4e56" />
@@ -852,7 +852,6 @@
         <option name="FOREGROUND" value="47e18a" />
       </value>
     </option>
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JADE_TAG_CLASS">
       <value>
         <option name="FOREGROUND" value="52a0bb" />
@@ -1564,8 +1563,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="f8f8f2" />
         <option name="BACKGROUND" value="b85e34" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
