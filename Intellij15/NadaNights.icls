@@ -504,7 +504,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff79c6" />
+        <option name="FOREGROUND" value="d092cc" />
         <option name="BACKGROUND" value="2b2836" />
       </value>
     </option>
@@ -1074,7 +1074,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444452" />
+        <option name="BACKGROUND" value="29405f" />
       </value>
     </option>
     <option name="MULTIMARKDOWN.ANCHOR_LINK">
@@ -1201,7 +1201,7 @@
     </option>
     <option name="Map key">
       <value>
-        <option name="FOREGROUND" value="f2f3c2" />
+        <option name="FOREGROUND" value="dbc471" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
