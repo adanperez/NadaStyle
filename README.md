@@ -28,18 +28,14 @@ Installation
 -----------
 Use the provided `install.sh` script to install the color scheme into IntelliJ.  
 
-Intellij 15:
+Intellij 16:
+
+    # ./install.sh 16
+
+Intellij EAP:
+
+    # ./install.sh 2016.3
+
+Intellij 15 (no longer supported):
 
     # ./install.sh 15
-
-Intellij 14 (no longer supported):
-
-    # ./install.sh 14
-
-Intellij 13 (no longer supported):
-
-    # ./install.sh 13
-
-Intellij 12 (no longer supported):
-
-    # ./install.sh 12
