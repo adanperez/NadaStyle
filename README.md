@@ -26,15 +26,13 @@ The following languages and features are supported at this time.
 
 Installation
 -----------
-Use the provided `install.sh` script to install the color scheme into IntelliJ.  
+Place the Intellij16/NadaNights.icls file into your (user home)/Library/Preferences/IntelliJIdea(version)/colors folder.
+
+You could also use the provided `install.sh` script to install the color scheme into IntelliJ.  
 
 Intellij 16:
 
     # ./install.sh 16
-
-Intellij EAP:
-
-    # ./install.sh 2016.3
 
 Intellij 15 (no longer supported):
 
